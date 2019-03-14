@@ -1,4 +1,4 @@
-# React-Redux
+# React-Redux Boilerplate Setup for Begineer
 
 This tutorial will show you how we can add Redux to the Create React App starter project. We’ll be using community best practices to structure our application while maintaining simplicity. In the end, the app will be a simple shopping cart that allows us to add items from the shelf.
 
