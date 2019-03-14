@@ -6,6 +6,7 @@ Let’s get started.
 
 Create a boilerplate project withe the create-react-app command
 
+    npm install -g create-react-app
     create-react-app ReactRedux
 
 Install relevant redux modules:
