@@ -2,6 +2,8 @@
 
 This tutorial will show you how we can add Redux to the Create React App starter project. We’ll be using community best practices to structure our application while maintaining simplicity. In the end, the app will be a simple shopping cart that allows us to add items from the shelf.
 
+You can download orginal working copy from here, This below tutorial based i have setup and tried and implement React Redux concept in this project. If you have any queries let me know.
+
 Let’s get started.
 
 Create a boilerplate project withe the create-react-app command
@@ -12,7 +14,7 @@ Create a boilerplate project withe the create-react-app command
 Install relevant redux modules:
 
     npm i redux --save
-    npm i react-redux --saveCopy
+    npm i react-redux --save
 
 go inside the src folder and create a couple of directories and files:
 
@@ -166,3 +168,11 @@ and modify the App-intro class to:
     </div>
 
 And with that, you now have redux in your starter project, Congrats!
+
+
+Source From :- 
+> https://www.penta-code.com/how-to-add-redux-to-create-react-app/
+
+> https://material-ui.com/
+
+> https://github.com/facebookincubator/create-react-app
