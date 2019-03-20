@@ -1,4 +1,6 @@
-#React Redux
+
+#   React Redux
+
 
 I have attached React Redux setup boilerplate personal working copy, In this project, I have been followed by below commands and setup formats to implement this concept:
 
