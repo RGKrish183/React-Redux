@@ -167,9 +167,3 @@ and modify the App-intro class to:
         </div>
 
 And with that, you now have redux in your starter project, Congrats!
-
-Thanks for Source and From : 
-
-> https://github.com/facebookincubator/create-react-app
-
-> https://www.penta-code.com/how-to-add-redux-to-create-react-app/
